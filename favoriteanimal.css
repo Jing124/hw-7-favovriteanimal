@@ -1,0 +1,43 @@
+body{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 5rem;
+    padding: 15px;
+    
+}
+img{
+    width: auto;
+    height: 250px;
+}
+.Animal1{
+    width: auto;
+    height: 300px;
+    margin: 25px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+.Animal2{
+    width: auto;
+    height: 300px;
+    margin: 25px;
+    padding: 10px;
+    background: whitesmoke;
+}
+.Animal3{
+    width: auto;
+    height: 300px;
+    margin: 25px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+.text{
+    color: darkblue;
+}
