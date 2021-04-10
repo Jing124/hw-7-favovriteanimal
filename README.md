@@ -1,1 +1,1 @@
-# hw_7_favovriteanimal
+# hw-7-favovriteanimal
